@@ -39,7 +39,7 @@ p {
 .contents {
     margin-top: 50px;
     padding: 20px;
-    width: 35%;
+    
     background-color: hsl(0, 0%, 8%);
     border-radius: 10px;
     display: flex;
