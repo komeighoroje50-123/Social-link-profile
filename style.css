@@ -27,9 +27,11 @@ html {
 h1 {
     color: white;
     height: 5px;
+    font-size: 14px;
 }
 p {
     height: 5px;
+    font-size: 14px;
 }
 #address {
     color: hsl(75, 94%, 57%);
